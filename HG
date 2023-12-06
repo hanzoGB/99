@@ -171,7 +171,7 @@ function UILib:CreateUI()
 	Background.BorderColor3 = Color3.new(0, 0, 0)
 	Background.BorderSizePixel = 0
 	Background.Size = UDim2.new(1, 0, 1, 0)
-	Background.Image = "rbxassetid://15563001455"
+	Background.Image = "rbxassetid://15563150570"
 
 	UICorner_2.Parent = Background
 
